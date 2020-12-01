@@ -28,9 +28,6 @@
 </p>
 
 
-<br />
-<br />
-
 ### 📕 Latest Blog Posts
 
 
