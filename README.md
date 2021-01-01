@@ -1,4 +1,4 @@
-### Hi, I'm Alessio, software engineer @ Parkopedia 👋
+### Hi, I'm Alessio, software engineer @ Paddle.com 👋
 
 - 🖋 I write on [medium][medium]
 - 📷 I’m passionate about landscape photography
