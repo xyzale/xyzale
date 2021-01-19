@@ -1,8 +1,8 @@
 ### Hi, I'm Alessio, software engineer @ Paddle.com 👋
 
-- 🖋 I write on [medium][medium]
-- 📷 I’m passionate about landscape photography
-- 🇬🇧 I live in London, UK
+- 🖋  I write on [medium][medium]
+- 📷  I’m passionate about landscape photography
+- 🇬🇧  I live in London, UK
 
 ### Connect with me:
 
