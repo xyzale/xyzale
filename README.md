@@ -1,7 +1,7 @@
 ### Hi, I'm Alessio, software engineer @ Paddle.com 👋
 
 - 🖋  I write on [medium][medium]
-- 📷  I’m passionate about landscape photography
+- 📷  I’m passionate about [landscape photography](https://500px.com/p/AlessioPieruccetti?view=photos)
 - 🇬🇧  I live in London, UK
 
 ### Connect with me:
