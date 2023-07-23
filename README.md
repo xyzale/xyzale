@@ -31,6 +31,7 @@
 ### 📕 Latest Blog Posts
 
 
+- [Optmise memory management in Go](https://medium.com/@alessiopieruccetti/optimise-memory-management-in-go-dcc819651b39)
 - [Liskov substitution principle in a nutshell](https://itnext.io/liskov-substitution-principle-in-a-nutshell-8679015ada50)
 - [Advantages of git rebase](https://itnext.io/advantages-of-git-rebase-af3b5f5448c6)
 - [The importance of making meaningful commits](https://medium.com/swlh/the-importance-of-making-meaningful-commits-fd68e869f185)
